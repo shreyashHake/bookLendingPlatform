@@ -1,10 +1,38 @@
 {
-  "posts" : [
+  "posts": [
     {
       "id": 1,
       "auther": "Ravindranth Tagore",
       "title": "Indian Culture",
-      "price":
+      "language": "English",
+      "pages": 500,
+      "year": 1940,
+      "country": "India"
+    },
+    {
+      "id": 2,
+      "auther": "Satish Jadhaw",
+      "title": "Kakshsparsh",
+      "language": "Marathi",
+      "pages": 250,
+      "year": 2016,
+      "country": "India"
+    }
+  ],
+  "lend": [
+    {
+      "id": 1,
+      "name": "Shreyash Hake",
+      "booKitle": "Indian Culture",
+      "lendingDate": "string",
+      "returnDate": "string"
+    },
+    {
+      "id": 2,
+      "name": "Rajesh Hake",
+      "booKitle": "Indian Culture",
+      "lendingDate": "string",
+      "returnDate": "string"
     }
   ]
 }
